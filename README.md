@@ -18,12 +18,10 @@ https://trec-cds.org/2022.html
 !pip install nltk
 ```
 
-## Process in .ipynb
+## Process in [search_script.ipynb](https://github.com/Lee-search/search_script_for_TREC/blob/master/search_script.ipynb)
 
-1.Import Datasets (Topics, Terms by BERT)
-
+1. Import Datasets (Topics, Terms by BERT)
 2. Run Elasticsearch
-
 3. Run TREC_EVAL
 
 ## Datasets/Topics-2022.xml
